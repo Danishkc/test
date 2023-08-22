@@ -1,0 +1,3 @@
+Name: Muhammed Danish kc
+Skills: HTML, CSS, JS, Python, Django, Machine Learning, C, C++, Bootstrap, Nodejs, MySQL, Express.js, Java 
+Email: danishkc0007@gmail.com
